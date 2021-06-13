@@ -1,0 +1,22 @@
+/*
+syntax:
+
+selector:pseudo_classname{
+
+   property1:value1;
+   property2:value2;
+   .
+   .
+   .
+   property N:value N;
+
+}
+
+*/
+
+
+
+a:visited{
+
+   color:green;
+}
